@@ -1,0 +1,4 @@
+projeto utiliza o arquivo db.JSON para acessar os dados da api.
+para utilizar, abra o prompt de comando
+
+c:/... bytebank>json-serve --watch db.json
